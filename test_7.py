@@ -1,3 +1,4 @@
+from programa import suma
 from programa import area_circulo
 import math
 
